@@ -1,6 +1,8 @@
 # Soccer-Analysis-YOLO
 ## Project Overview
 
+<img src="https://github.com/rathi-yash/Soccer-Analysis-YOLO/blob/main/videos/Football-Analysis.gif"/>
+
 This project leverages advanced computer vision and machine learning techniques to analyze football (soccer) match videos. Our key objectives include:
 
 ### Object Detection and Tracking
